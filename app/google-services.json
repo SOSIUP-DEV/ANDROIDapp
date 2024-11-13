@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17598534645",
+    "project_id": "sosiup-da4a1",
+    "storage_bucket": "sosiup-da4a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17598534645:android:8e5888a849b47433b906bc",
+        "android_client_info": {
+          "package_name": "com.mahmuttalha.sosiup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xDpPPqWr1_j-hjzNMCG3jfZ60A5cp5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
